@@ -1,4 +1,4 @@
-# Bot Leitor de Comentários do instagram
+# 🤖 Bot Leitor de Comentários do instagram
 Baseado no vídeo: https://www.youtube.com/watch?v=zrM7EwUXsYU&t=989s
 
 ## 📥 Executar esse projeto no seu computador
